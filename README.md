@@ -12,7 +12,8 @@
 >  위 주소 입력한 후 OK를 눌러준다.
 >  User Scripts 목록에 's2check.user.js'라는 항목이 생긴다면 정상적으로 설치된 것.
 >##### 4. 플러그인 설정
->- User Scripts에서 뒤로가기를 하여 Plugins 목록에서 Layer > IITC plugin: Portal Names 와 Pogo Tools, PoGOHWH 두 가지를 체크해준다.
+>- User Scripts에서 뒤로가기를 하여 Plugins 목록에서  
+>  Layer > IITC plugin: Portal Names 와 Pogo Tools, PoGOHWH 두 가지를 체크해준다.
 >##### 5. 맵 설정
 >- Settings을 벗어난 후 맵 좌측 상단 Menu에 들어간다.
 >- Base Layers 탭에서 Google Default Ingress Map 을 체크
@@ -41,7 +42,8 @@
 >  우측 상단 TemperMonkey 플러그인을 클릭하고 새 스크립트 만들기 > 설치된 유저 스크립트에  
 >  위에 다운받은 파일 2개를 넣어준다.(drag and drop)
 >##### 5. 인그레스 맵 설정
->- https://intel.ingress.com/intel 웹으로 이동을 하면 TemperMonkey 플러그인에 2라는 숫자가 표시된다.(위 과정들이 정상적으로 되었다면)
+>- https://intel.ingress.com/intel 웹으로 이동을 하면 TemperMonkey 플러그인에 2라는 숫자가 표시된다.
+>  (위 과정들이 정상적으로 되었다면)
 >- 우측 상단에 네모가 겹쳐있는 흰색 아이콘이 있다. 그걸 누른 후 Google Default Ingress Map 체크, Fields/Links 체크 해제
 >##### 6. 완료
 
