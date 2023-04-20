@@ -31,7 +31,7 @@
 >- 크롬 우측 상단에 퍼즐 조각 모양을 눌러 설치한 TemperMonkey가 플러그인 아이콘에 노출되도록 한다.
 >##### 4. 플러그인 설치
 >- https://iitc.me/desktop/ 에서 플러그인을 다운로드 한다.(아래 링크를 눌러도 됨)  
->  https://static.iitc.me/build/release/total-conversion-build.user.js 또는
+>  https://static.iitc.me/build/release/total-conversion-build.user.js 또는  
 >  https://github.com/com0511/pogo-ingress/blob/main/pc/total-conversion-build.user.js
 >- 14, 17 셀 플러그인 설치
 >  https://github.com/com0511/pogo-ingress/blob/main/pc/level14and17cells.user.js
