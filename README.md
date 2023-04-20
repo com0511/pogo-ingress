@@ -42,7 +42,7 @@
 >  우측 상단 TemperMonkey 플러그인을 클릭하고 새 스크립트 만들기 > 설치된 유저 스크립트에  
 >  위에 다운받은 파일 2개를 넣어준다.(drag and drop)
 >##### 5. 인그레스 맵 설정
->- https://intel.ingress.com/intel 웹으로 이동을 하면 TemperMonkey 플러그인에 2라는 숫자가 표시된다.
+>- https://intel.ingress.com/intel 웹으로 이동을 하면 TemperMonkey 플러그인에 2라는 숫자가 표시된다.  
 >  (위 과정들이 정상적으로 되었다면)
 >- 우측 상단에 네모가 겹쳐있는 흰색 아이콘이 있다. 그걸 누른 후 Google Default Ingress Map 체크, Fields/Links 체크 해제
 >##### 6. 완료
