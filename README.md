@@ -21,27 +21,27 @@
 
 
 
-> ## [PC]
-##### 1. 계정생성
-- 앱스토어에서 'Ingress Prime'을 설치하고 구글계정으로 가입을 한 후 튜토리얼을 완료한다.
-##### 2. TemperMonkey 설치
-- 구글 플러그인 TemperMonkey를 설치한다.  
-  https://chrome.google.com/webstore/detail/tampermonkey/dhdgffkkebhmkfjojejmpbldmpobfkfo?hl=ko
-##### 3. TemperMonkey 플러그인 활성화
-- 크롬 우측 상단에 퍼즐 조각 모양을 눌러 설치한 TemperMonkey가 플러그인 아이콘에 노출되도록 한다.
-##### 4. 플러그인 설치
-- https://iitc.me/desktop/ 에서 플러그인을 다운로드 한다.(아래 링크를 눌러도 됨)  
-  https://static.iitc.me/build/release/total-conversion-build.user.js 또는
-  https://github.com/com0511/pogo-ingress/blob/main/pc/total-conversion-build.user.js
-- 14, 17 셀 플러그인 설치
-  https://github.com/com0511/pogo-ingress/blob/main/pc/level14and17cells.user.js
-- TemperMonkey가 정상적으로 설치가 되었다면 위 파일들을 다운로드 할때 파일을 내려받는 형태가 아닌  
-  TemperMonkey에 설치가 될 것이다. 
-- 혹시라도 위 과정이 잘 안되서 TemperMonkey에 바로 설치가 되지 않고 파일로 내려받는 형태라면  
-  우측 상단 TemperMonkey 플러그인을 클릭하고 새 스크립트 만들기 > 설치된 유저 스크립트에  
-  위에 다운받은 파일 2개를 넣어준다.(drag and drop)
-##### 5. 인그레스 맵 설정
-- https://intel.ingress.com/intel 웹으로 이동을 하면 TemperMonkey 플러그인에 2라는 숫자가 표시된다.(위 과정들이 정상적으로 되었다면)
-- 우측 상단에 네모가 겹쳐있는 흰색 아이콘이 있다. 그걸 누른 후 Google Default Ingress Map 체크, Fields/Links 체크 해제
-##### 6. 완료
+## [PC]
+>##### 1. 계정생성
+>- 앱스토어에서 'Ingress Prime'을 설치하고 구글계정으로 가입을 한 후 튜토리얼을 완료한다.
+>##### 2. TemperMonkey 설치
+>- 구글 플러그인 TemperMonkey를 설치한다.  
+>  https://chrome.google.com/webstore/detail/tampermonkey/dhdgffkkebhmkfjojejmpbldmpobfkfo?hl=ko
+>##### 3. TemperMonkey 플러그인 활성화
+>- 크롬 우측 상단에 퍼즐 조각 모양을 눌러 설치한 TemperMonkey가 플러그인 아이콘에 노출되도록 한다.
+>##### 4. 플러그인 설치
+>- https://iitc.me/desktop/ 에서 플러그인을 다운로드 한다.(아래 링크를 눌러도 됨)  
+>  https://static.iitc.me/build/release/total-conversion-build.user.js 또는
+>  https://github.com/com0511/pogo-ingress/blob/main/pc/total-conversion-build.user.js
+>- 14, 17 셀 플러그인 설치
+>  https://github.com/com0511/pogo-ingress/blob/main/pc/level14and17cells.user.js
+>- TemperMonkey가 정상적으로 설치가 되었다면 위 파일들을 다운로드 할때 파일을 내려받는 형태가 아닌  
+>  TemperMonkey에 설치가 될 것이다. 
+>- 혹시라도 위 과정이 잘 안되서 TemperMonkey에 바로 설치가 되지 않고 파일로 내려받는 형태라면  
+>  우측 상단 TemperMonkey 플러그인을 클릭하고 새 스크립트 만들기 > 설치된 유저 스크립트에  
+>  위에 다운받은 파일 2개를 넣어준다.(drag and drop)
+>##### 5. 인그레스 맵 설정
+>- https://intel.ingress.com/intel 웹으로 이동을 하면 TemperMonkey 플러그인에 2라는 숫자가 표시된다.(위 과정들이 정상적으로 되었다면)
+>- 우측 상단에 네모가 겹쳐있는 흰색 아이콘이 있다. 그걸 누른 후 Google Default Ingress Map 체크, Fields/Links 체크 해제
+>##### 6. 완료
 
